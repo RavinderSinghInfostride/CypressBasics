@@ -1,0 +1,14 @@
+{
+    "viewportWidth": 1050,
+    "viewportHeight": 700,
+    "chromeWebSecurity": false,
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "reportDir": "cypress/results",
+        "reportFilename": "report",
+        "overwrite": true,
+        "html": true,
+        "json": false
+    },
+    "video": true
+}
